@@ -1,0 +1,31 @@
+
+
+{
+  "products": [
+    {"id":1,"name":"Theophylline in Dextrose","category":"Aluminum","price":3862362},
+    {"id":2,"name":"Stress Complex","category":"Plastic","price":2035816},
+    {"id":3,"name":"Food - Fish and Shellfish, Clam","category":"Brass","price":4075156},
+    {"id":4,"name":"Benzoyl Peroxide","category":"Stone","price":4044889},
+    {"id":5,"name":"Nighttime Allergy Relief","category":"Plexiglass","price":4755194},
+    {"id":6,"name":"Fexofenadine Hydrochloride","category":"Stone","price":113277},
+    {"id":7,"name":"LBEL EFFET PARFAIT filling effect foundation SPF 10 - CLAIRE 3","category":"Plastic","price":4065806},
+    {"id":8,"name":"CleanWell Natural Orange Vanilla Hand Sanitizing Wipes","category":"Aluminum","price":3233035},
+    {"id":9,"name":"Amlodipine Besylate","category":"Rubber","price":1611623},
+    {"id":10,"name":"Bacitracin Zinc","category":"Aluminum","price":4888583},
+    {"id":11,"name":"Levofloxacin","category":"Plexiglass","price":1099496},
+    {"id":12,"name":"Morning Sickness","category":"Plexiglass","price":4043877},
+    {"id":13,"name":"GAS RELIEF","category":"Granite","price":1880307},
+    {"id":14,"name":"Alpha-Caine","category":"Aluminum","price":3558631},
+    {"id":15,"name":"Gabapentin","category":"Steel","price":2081086},
+    {"id":16,"name":"Oat Grain","category":"Rubber","price":2435457},
+    {"id":17,"name":"MINERAL OIL, PRAMOXINE HYDROCHLORIDE AND ZINC OXIDE","category":"Wood","price":3684595},
+    {"id":18,"name":"Acid Reducer","category":"Glass","price":1780434},
+    {"id":19,"name":"Breatheze","category":"Plexiglass","price":4918708},
+    {"id":20,"name":"DORYX","category":"Brass","price":2724947},
+    {"id":21,"name":"MedActive Patient Friendly","category":"Stone","price":2785769},
+    {"id":22,"name":"Antibacterial Hand Towelettes","category":"Stone","price":4779729},
+    {"id":23,"name":"HYZAAR","category":"Rubber","price":3867663},
+    {"id":24,"name":"Moderiba","category":"Granite","price":1302611},
+    {"id":25,"name":"LAMICTAL","category":"Glass","price":1573323}
+   ]
+}
